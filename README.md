@@ -1,2 +1,3 @@
 # rsschool-cv
-<a href="https://komarofff.github.io/rsschool-cv/cv">CV</a>
+<a href="https://komarofff.github.io/rsschool-cv/">komarofff.github.io/rsschool-cv</a>
+
