@@ -75,5 +75,3 @@ Front-end developer. HTML5, CSS3 (GRID+FLEX), JavaScript, Vue.js
 ### Languages
 * English A2-B1
 * Polish  C1
-****
-****
