@@ -29,7 +29,7 @@
 *	Photoshop
 ****
 ### Portfolio:
-[Portfolio link](https://komarofff.github.io/front-end/)
+[[Portfolio link](https://komarofff.github.io/front-end/)](https://komarofff.github.io/front-end/)
 ****
 ### Code example:
 ****
@@ -65,4 +65,15 @@ console.log('reverseWay=',reverseWay[0].reverse())
 ### Experience
 ****
 FRONT-END DEVELOPER  in  VASTERRA  (VASTERRA. COM)     05.01-2021 - JUNE 2022  
+****
+### Courses
+*  2017    **MYFREEDOM**
+Front-end developer. PHP, MYSQL, HTML, CSS, JavaScript, Laravel
+* 2021   **BELHARD Academy**
+Front-end developer. HTML5, CSS3 (GRID+FLEX), JavaScript, Vue.js
+****
+### Languages
+* English A2-B1
+* Polish  C1
+****
 ****
