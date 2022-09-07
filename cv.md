@@ -1,7 +1,5 @@
 # Anatoliy Komarov CV
 ****
-## Anatoliy Komarov
-****
 ### Contacts:
 ****
 * **Location:** Minsk, Belarus
@@ -29,6 +27,9 @@
 *	Git
 *	Figma
 *	Photoshop
+****
+### Portfolio:
+[Portfolio link](https://komarofff.github.io/front-end/)
 ****
 ### Code example:
 ****
